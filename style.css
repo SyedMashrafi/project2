@@ -1,0 +1,35 @@
+section {
+    display: flex;
+    padding:5%;
+    justify-content: space-around;
+}
+.name {
+    color:rgb(158, 241, 3);
+}
+img {
+    border-radius:50%;
+    width:30em;
+    height:30em;
+}
+a {
+    text-decoration: none;
+    background:linear-gradient(to left, rgb(251, 255, 4), red);
+    padding: 10px ;
+    color: rgb(245, 245, 248);
+    font-size: 20px;
+    border-radius: 15px;
+}
+.dolor {
+    width: 50%;
+}
+#hero-img{
+    margin-left: 20%;
+}
+.Lorem {
+    box-shadow: 1px 3px 10px coral;
+    width: 40%;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
